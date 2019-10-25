@@ -1,0 +1,10 @@
+{
+  "mod_id": "refinedstorage",
+  "mod_name": "Refined Storage",
+  "mod_dir": "/Refined_Storage/",
+  "mod_version": "1.6.14",
+  "mc_version": "1.12.2",
+  "mod_authors": ["raoulvdberge", "CyanideX", "Way2muchnoise"],
+  "url_website": "https://refinedstorage.raoulvdberge.com/",
+  "description": "An elegant solution to your hoarding problem"
+}
